@@ -1,3 +1,6 @@
+#ifndef __ZIFF_H__
+#define __ZIFF_H__
+
 #include <cstdio>
 #include <cstdlib>
 #include <algorithm>
@@ -48,3 +51,5 @@ class Ziff
     private:
         
 };
+
+#endif
